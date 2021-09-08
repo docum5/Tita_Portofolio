@@ -9,7 +9,7 @@ A model to predict the value of a given house in the Boston real estate market u
 # [Project 2: CIA Country Analysis and Clustering](https://github.com/docum5/CIA-Country-Analysis-and-Clustering)
 ***Unsupervised Learning***: Gain insights into similarity between countries and regions of the world by experimenting with different cluster amounts. And see what do these clusters represent.
 
-![](/images/newplot%20(1).png)
+![](/images/kmeanss.PNG)
 
 # [Project 3: Analyzing the Growth of Indian Startups-Financial Analytics](https://github.com/docum5/Analyzing-the-Growth-of-Indian-Startups-Financial-Analytics)
 1. What is the general amount that startups get in india ?
