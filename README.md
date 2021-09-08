@@ -1,7 +1,7 @@
 # Tita_Portofolio
 Data Analytics &amp; Science Portofolio
 
-# Project 1: Analyzing the Growth of Indian Startups-Financial Analytics
+# [Project 1: Analyzing the Growth of Indian Startups-Financial Analytics] (https://github.com/docum5/Analyzing-the-Growth-of-Indian-Startups-Financial-Analytics)
 1. What is the general amount that startups get in india ?
 
 2. What kind of industries is more preferred for startups ?
