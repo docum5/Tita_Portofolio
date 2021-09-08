@@ -11,3 +11,5 @@ Data Analytics &amp; Science Portofolio
 4. Who plays the main role in Indian startups ecosystem ?
 
 5. What are the different types of funding for startups ?
+
+![](/images/wordcloud.png)
