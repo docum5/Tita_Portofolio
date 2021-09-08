@@ -16,3 +16,5 @@ Data Analytics &amp; Science Portofolio
 
 # [Project 2: Predicting Boston Housing Prices](https://github.com/docum5/Predicting-Boston-Housing-Prices)
 A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+
+![](/images/correlation.png)
