@@ -1,5 +1,5 @@
 # Tita_Portofolio
-Data Analytics &amp; Science Portofolio
+Data Analytics &amp; Science 
 
 # [Project 1: CIA Country Analysis and Clustering](https://github.com/docum5/CIA-Country-Analysis-and-Clustering)
 ***Unsupervised Learning***: Gain insights into similarity between countries and regions of the world by experimenting with different cluster amounts. And see what do these clusters represent.
