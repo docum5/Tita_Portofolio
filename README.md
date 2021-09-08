@@ -1,7 +1,17 @@
 # Tita_Portofolio
 Data Analytics &amp; Science Portofolio
 
-# [Project 1: Analyzing the Growth of Indian Startups-Financial Analytics](https://github.com/docum5/Analyzing-the-Growth-of-Indian-Startups-Financial-Analytics)
+# [Project 1: CIA Country Analysis and Clustering](https://github.com/docum5/CIA-Country-Analysis-and-Clustering)
+***Unsupervised Learning***: Gain insights into similarity between countries and regions of the world by experimenting with different cluster amounts. And see what do these clusters represent.
+
+![](/images/kmeans%20clustering.png)
+
+# [Project 2: Predicting Boston Housing Prices](https://github.com/docum5/Predicting-Boston-Housing-Prices)
+A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
+
+![](/images/correlation.png)
+
+# [Project 3: Analyzing the Growth of Indian Startups-Financial Analytics](https://github.com/docum5/Analyzing-the-Growth-of-Indian-Startups-Financial-Analytics)
 1. What is the general amount that startups get in india ?
 
 2. What kind of industries is more preferred for startups ?
@@ -14,7 +24,3 @@ Data Analytics &amp; Science Portofolio
 
 ![](/images/wordcloud.png)
 
-# [Project 2: Predicting Boston Housing Prices](https://github.com/docum5/Predicting-Boston-Housing-Prices)
-A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
-
-![](/images/correlation.png)
